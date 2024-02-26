@@ -2,13 +2,14 @@
 <h1 align="center">Hi 👋, I'm Supuni Madushani</h1>
 <h3 align="center">A Software Engineering Undergraduate in NSBM Green University, Sri Lanka.</h3>
 
+
 <p align="center" > <img src="https://media.tenor.com/kDKGm1ddC6kAAAAj/cute-puppy.gif"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madushanidgs&label=Profile%20views&color=0e75b6&style=flat" alt="madushanidgs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madushanidgs" alt="madushanidgs" /></a> </p>
 
-- 🌱 I’m currently learning **react, flutter, java, node.js**
+- 🌱 As a second-year undergraduate studying Software Engineering, I'm proficient in HTML, CSS, JavaScript, Java, C, MySQL, and PHP. Currently expanding my skills with React, Tailwind CSS, Git, Next.js, and TypeScript, I'm dedicated to staying updated with industry trends. Additionally, I'm exploring AI tools and seeking deeper insights into AI technologies. Passionate about technology and continuous learning, I'm eager to contribute to innovative software projects while embracing new challenges in AI and software engineering.
 
 - 📫 How to reach me **supunimadushani2001@gamil.com**
 
