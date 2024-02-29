@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://w0.peakpx.com/wallpaper/316/606/HD-wallpaper-github-blue-logo-blue-brickwall-github-logo-social-networks-github-neon-logo-github-thumbnail.jpg" width="500px"/></p>
 <h1 align="center">Hi 👋, I'm Supuni Madushani</h1>
-<h3 align="center">A Software Engineering Undergraduate in NSBM Green University, Sri Lanka.</h3>
+<h3 align="center">web developer, front-end developer in Sri Lanka.</h3>
 
 
 <p align="center" > <img src="https://media.tenor.com/kDKGm1ddC6kAAAAj/cute-puppy.gif"/></p>
