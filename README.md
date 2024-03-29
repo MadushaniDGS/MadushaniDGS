@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://w0.peakpx.com/wallpaper/316/606/HD-wallpaper-github-blue-logo-blue-brickwall-github-logo-social-networks-github-neon-logo-github-thumbnail.jpg" width="500px"/></p>
+<img src="SM.png" width="100%" height="500px"/>
 <h1 align="center">Hi 👋, I'm Supuni Madushani</h1>
 <h3 align="center">web developer, front-end developer in Sri Lanka.</h3>
 
