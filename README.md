@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **supunimadushani2001@gamil.com**
 
-- ⚡ Fun fact **I am funny, but little bit lazy.**
+- ⚡ Interested in QA
 
 <p align="left">
 </p>
