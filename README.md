@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madushanidgs" alt="madushanidgs" /></a> </p>
 
-- 🌱 As a third-year undergraduate studying Software Engineering, I'm proficient in HTML, CSS, JavaScript, Java, C, MySQL, and PHP. Currently expanding my skills with React, Tailwind CSS, Git, Next.js, and TypeScript, I'm dedicated to staying updated with industry trends. Additionally, I'm exploring AI tools and seeking deeper insights into AI technologies. Passionate about UI/UX designing, I'm eager to contribute to innovative software projects while embracing new challenges in AI and software engineering.
+- 🌱 As a final year undergraduate studying Software Engineering, I'm proficient in HTML, CSS, JavaScript, Java, C, MySQL, and PHP. Currently expanding my skills with React, Tailwind CSS, Git, Next.js, and TypeScript, I'm dedicated to staying updated with industry trends. Additionally, I'm exploring AI tools and seeking deeper insights into AI technologies. Passionate about UI/UX designing, I'm eager to contribute to innovative software projects while embracing new challenges in AI and software engineering.
 
 - 📫 How to reach me **supunimadushani2001@gamil.com**
 
