@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **supunimadushani2001@gamil.com**
 
-- ⚡ Interested in QA
+- ⚡ Interested in web development, software testing 
 
 <p align="left">
 </p>
